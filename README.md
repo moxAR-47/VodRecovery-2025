@@ -28,6 +28,21 @@ https://github.com/MacielG1/VodRecovery/releases/latest
 
 ## Usage
 
+FOR TERMUX:
+```
+1)apt update
+2)apt upgrade
+3)pkg install tur-repo (optional)
+4)pkg install binutils   (Optional)
+5)pkg install python3.9
+6)pkg install python3.9-tkinter
+7)pkg install wget
+8)wget https://github.com/moxAR-47/VodRecovery-2025/releases/download/vod/VodRecovery-1.3.12.zip //////// git clone https://github.com/moxAR-47/VodRecovery-2025
+9)unzip 1.3.9.zip
+10)pkg install python3.9 install_dependencies.py install
+11)python3.9 vod_recovery.py 
+```
+
 This is the interactive menu:
 
 ```
